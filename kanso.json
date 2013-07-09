@@ -1,0 +1,18 @@
+{
+    "name": "dygraph-combined",
+    "version": "0.0.1",
+    "categories": ["visualization"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "http://dygraphs.com/",
+    "modules": "dygraph-combined.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": ">=0.0.8"
+    },
+    "description": "dygraphs is an open source JavaScript library that produces produces interactive, zoomable charts of time series. It is designed to display dense data sets and enable users to explore and interpret them."
+}
